@@ -17,6 +17,7 @@
 // let y = 5;
 // let z = x % y;
 // document.write(z);
-var x = 50;
-x %= 7;
-console.log(x);
+// var x = 50;
+// x %= 7;
+// console.log(x);
+document.getElementById('test-container').innerHTML = 'Hi Friends...';
