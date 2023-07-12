@@ -9,6 +9,14 @@
 // console.log(x + y);
 // document.write(x + y);
 
-let x = 20;
-let y = 30;
-console.log(x + y);
+// let x = 20;
+// let y = 30;
+// console.log(x + y);
+
+// let x = 2;
+// let y = 5;
+// let z = x % y;
+// document.write(z);
+var x = 50;
+x %= 7;
+console.log(x);
